@@ -9,8 +9,5 @@ public class p12_CurrencyConverter {
         double GBPToBGN = 2.53405;
 
         double cash = Double.parseDouble(scanner.nextLine());
-
-
-
     }
 }
